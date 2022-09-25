@@ -22,3 +22,8 @@
 
   <p>&nbsp;<img align="center" height="180em" width="460em" src="https://github-readme-stats.vercel.app/api?username=raphas9&show_icons=true&locale=en" alt="raphas9" /></p>
   
+    <div align="center">
+    <a href="https://github.com/kaiquepl">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphas9&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphas9&layout=compact&langs_count=7&theme=github_dark"/>
+  </div>
