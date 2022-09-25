@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphas9&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="raphas9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphas9&show_icons=true&locale=en" alt="raphas9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphas9&" alt="raphas9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphas9&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="raphas9" /></p>
