@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphas9&show_icons=true&locale=en&layout=compact" alt="raphas9" /></p><br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=raphas9&show_icons=true&locale=en" alt="raphas9" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphas9&show_icons=true&locale=en" alt="raphas9" /></p>
