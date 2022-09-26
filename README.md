@@ -6,7 +6,7 @@
 
 - 👨‍💻 Meu último projeto finalizado [https://barbeariadomfigaro.herokuapp.com](https://barbeariadomfigaro.herokuapp.com)
 
-- 📫 Como falar comigo **rsousa059@gmail.com**
+- 📫 Email **rsousa059@gmail.com**
 
 - 📄 Currículo [https://drive.google.com/drive/folders/1CaBTv4LrE9O2_hjFC1pY-zMYTAE3unBJ?usp=sharing](https://drive.google.com/drive/folders/1CaBTv4LrE9O2_hjFC1pY-zMYTAE3unBJ?usp=sharing)
 
