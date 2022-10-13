@@ -6,7 +6,7 @@
 
 - 👨‍💻 Meu último projeto finalizado [https://barbeariadomfigaro.herokuapp.com](https://barbeariadomfigaro.herokuapp.com)
 
-- 📫 Email **rsousa059@gmail.com**
+- 📫 Contato **rsousa059@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
