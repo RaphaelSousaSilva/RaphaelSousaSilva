@@ -8,7 +8,6 @@
 
 - 📫 Email **rsousa059@gmail.com**
 
-- 📄 Currículo [https://drive.google.com/drive/folders/1CaBTv4LrE9O2_hjFC1pY-zMYTAE3unBJ?usp=sharing](https://drive.google.com/drive/folders/1CaBTv4LrE9O2_hjFC1pY-zMYTAE3unBJ?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
