@@ -20,7 +20,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
