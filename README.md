@@ -9,7 +9,7 @@
 - 📫 Contato **rsousa059@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/raphaelsousa9" target="_blank">
