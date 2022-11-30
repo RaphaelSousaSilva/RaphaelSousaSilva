@@ -37,6 +37,5 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphas9&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="raphas9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphas9&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="raphas9" /></p>
