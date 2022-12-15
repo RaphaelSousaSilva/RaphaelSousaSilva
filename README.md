@@ -1,6 +1,5 @@
 <h1 align="center">Olá, sou Raphael Sousa Silva</h1>
 <h3 align="center">Desenvolvedor back-end em aprendizado e com muito foco</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🌱 Atualmente estou estudando **Java**
 
