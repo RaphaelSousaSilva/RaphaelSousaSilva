@@ -1,12 +1,11 @@
 <h1 align="center">Olá, sou Raphael Sousa Silva</h1>
 <h3 align="center">Desenvolvedor back-end em aprendizado e com muito foco</h3>
 
-- 🌱 Atualmente estou estudando **Java**
+- 🌱 Atualmente estou estudando **Java** para Desenvolvimento WEB
 
 - 👨‍💻 Meu último projeto finalizado [https://barbeariadomfigaro.herokuapp.com](https://barbeariadomfigaro.herokuapp.com)
 
 - 📫 Contato **rsousa059@gmail.com**
-
 
 
 
