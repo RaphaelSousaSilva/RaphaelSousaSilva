@@ -3,8 +3,6 @@
 
 - 🌱 Atualmente estou estudando **Java** e **Spring** para Desenvolvimento WEB
 
-- 👨‍💻 Meu último projeto finalizado [https://barbeariadomfigaro.herokuapp.com](https://barbeariadomfigaro.herokuapp.com)
-
 - 📫 Contato **rsousa059@gmail.com**
 
 
