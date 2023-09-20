@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Raphael Sousa Silva</h1>
-<h3 align="center">Backend developer in learning mode with a strong focus</h3>
+<h3 align="center">Backend developer with a passion for learning</h3>
 
 - 🌱 Currently, I'm studying **Java** and **Spring** for web development
 
