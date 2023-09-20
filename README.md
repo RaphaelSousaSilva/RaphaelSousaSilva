@@ -1,28 +1,26 @@
-<h1 align="center">Olá, sou Raphael Sousa Silva</h1>
-<h3 align="center">Desenvolvedor back-end em aprendizado e com muito foco</h3>
+<h1 align="center">Hello, I'm Raphael Sousa Silva</h1>
+<h3 align="center">Backend developer in learning mode with a strong focus</h3>
 
-- 🌱 Atualmente estou estudando **Java** e **Spring** para Desenvolvimento WEB
+- 🌱 Currently, I'm studying **Java** and **Spring** for web development
 
-- 📫 Contato **rsousa059@gmail.com**
+- 📫 Contact **rsousa059@gmail.com**
 
 
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/raphaelsousa9" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 
- <!-- <a href="https://linkedin.com/in/raphaelsousa9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphaelsousa9" height="30" width="40" /></a> -->
-
 </p>
 
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 
 <details>
-  <summary>Linguagens</summary>
+  <summary>Languages</summary>
  
  > <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -45,7 +43,7 @@
 </details>
 
 <details>
-  <summary>Banco de Dados</summary>
+  <summary>Databases</summary>
  
  > <p align="left">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
