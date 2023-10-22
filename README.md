@@ -3,7 +3,7 @@
 
 - 🌱 Currently, I'm studying **Java** and **Spring** for web development
 
-- 📫 Contact **rsousa059@gmail.com**
+- 📫 Contact **raphaelsousa.wk@gmail.com**
 
 
 
